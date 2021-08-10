@@ -1,5 +1,8 @@
 _repo: The-Land-of-Fetish_65997
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65997-h/images/cover.jpg
 creator:
   author:
     agent_name: Ellis, A. B. (Alfred Burdon)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '34291'
     url: http://www.gutenberg.org/2009/agents/34291
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65997#The-Land-of-Fetish
 gutenberg_issued: '2021-08-05'
 gutenberg_type: Text
 identifiers:
